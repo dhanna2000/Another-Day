@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDvMZREZ-ABUgw-8c2C_r1QMzIg8AAcJCE</string>
+	<string>YOUR_FIREBASE_IOS_API_KEY_HERE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>934169636147</string>
+	<string>YOUR_GCM_SENDER_ID_HERE</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>OrganizeXL.The-App-Project</string>
 	<key>PROJECT_ID</key>
-	<string>another-day-98bd2</string>
+	<string>YOUR_FIREBASE_PROJECT_ID_HERE</string>
 	<key>STORAGE_BUCKET</key>
-	<string>another-day-98bd2.firebasestorage.app</string>
+	<string>YOUR_FIREBASE_STORAGE_BUCKET_HERE</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:934169636147:ios:7fafe0ff9579a3eca22246</string>
+	<string>YOUR_GOOGLE_APP_ID_HERE</string>
 </dict>
 </plist>
