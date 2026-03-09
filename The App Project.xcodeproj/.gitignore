@@ -1,0 +1,79 @@
+# Xcode and Swift
+# Derived data and build products
+DerivedData/
+build/
+Build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+.build/
+
+# CocoaPods
+Pods/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+!Podfile
+!Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Accio dependency manager
+Dependencies/
+.accio/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Xcode user data
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.xccrashpoint
+*.xcuserdatad
+*.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI previews
+*.preview-thumbnails
+
+# iOS device logs
+*.mobileprovision
+
+# macOS files
+.DS_Store
+
+# Archives
+*.xcarchive
+
+# Simulator data
+CoreSimulator/*
+
+# Bundle artifacts
+*.xcuserstate
+
+# Xcode 13+ SourcePackages
+SourcePackages/
+
+# AppCode
+.idea/
+
+# Misc
+*.orig
+*.rej
+
+# Ignore user-specific settings in xcworkspace and xcodeproj
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
